@@ -21,4 +21,6 @@ Please follow the below steps
 
 # References:
 - [CUB-200-2011 dataset](https://www.vision.caltech.edu/datasets/cub_200_2011/)
--  
+- [ImageNetSamples](https://github.com/EliSchwartz/imagenet-sample-images)
+- [Jacob Gil's pytorch-gradcam](https://jacobgil.github.io/pytorch-gradcam-book/introduction.html)
+- [Ben Trevett's Pytroch Image Classification](https://github.com/bentrevett/pytorch-image-classification/tree/master)
