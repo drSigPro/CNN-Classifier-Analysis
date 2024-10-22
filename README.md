@@ -15,7 +15,7 @@ Please follow the below steps
 2. Now open the [colab file](transfer_learning.ipynb) and click on "Open in Colab" option.
 4. Follow the instructions in the file and complete the home work listed at the end.
 
-# Part 3: Explain the trained models through feature visualization (visualize the filters, outputs, activation and understand Grad-CAM, Saliency Map etc)
+# Part 3: Explain the trained models through feature visualization (Introducing forward backward hooks in Pytorch, visualize the filters, outputs, activation and understand Grad-CAM, Saliency Map etc)
 Please follow the below steps
 1. Follow step 1 in part 2 in case you haven't done so (Not ideal though!)
 2. Now open the [colab file](model_explainability.ipynb) and click on "Open in Colab" option.
@@ -26,3 +26,4 @@ Please follow the below steps
 - [ImageNetSamples](https://github.com/EliSchwartz/imagenet-sample-images)
 - [Jacob Gil's pytorch-gradcam](https://jacobgil.github.io/pytorch-gradcam-book/introduction.html)
 - [Ben Trevett's Pytroch Image Classification](https://github.com/bentrevett/pytorch-image-classification/tree/master)
+- [Getting hooked with PyTorch and Grad-CAM](https://www.kaggle.com/code/noobiedatascientist/getting-hooked-with-pytorch-and-grad-cam)
