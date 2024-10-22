@@ -17,7 +17,9 @@ Please follow the below steps
 
 # Part 3: Explain the trained models through feature visualization (visualize the filters, outputs, activation and understand Grad-CAM, Saliency Map etc)
 Please follow the below steps
-1. Follow steps 1 and 2 in part 1 in case you haven't done so (Not ideal though!)
+1. Follow step 1 in part 2 in case you haven't done so (Not ideal though!)
+2. Now open the [colab file](model_explainability.ipynb) and click on "Open in Colab" option.
+3. Follow the instructions in the file and complete the home work listed at the end.
 
 # References:
 - [CUB-200-2011 dataset](https://www.vision.caltech.edu/datasets/cub_200_2011/)
